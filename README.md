@@ -38,6 +38,6 @@ This project compares three image classification methods: hand-crafted features 
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone https://github.com/maheshnilewar/image-classification-project.git
+git clone https://github.com/gamechanger21/image-classification-project.git
 cd image-classification-project
 pip install -r requirements.txt
